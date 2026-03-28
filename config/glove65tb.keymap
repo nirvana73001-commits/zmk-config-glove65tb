@@ -34,53 +34,52 @@
 
 / {
     behaviors {
-        us_dquote: us_dquote {
-            compatible = "zmk,behavior-macro";
-            #macro-binding-cells = <0>;
-            bindings = <&kp LS(7)>;
-        };
+us_dquote: us_dquote {
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+    bindings = <&kp LS(7)>;
+};
 
-        us_quote: us_quote {
-            compatible = "zmk,behavior-macro";
-            #macro-binding-cells = <0>;
-            bindings = <&kp 7>;
-        };
+us_quote: us_quote {
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+    bindings = <&kp 7>;
+};
 
-        us_backtick: us_backtick {
-            compatible = "zmk,behavior-macro";
-            #macro-binding-cells = <0>;
-            bindings = <&kp LS(AT)>;
-        };
+us_backtick: us_backtick {
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+    bindings = <&kp LS(AT)>;
+};
 
-        us_tilde: us_tilde {
-            compatible = "zmk,behavior-macro";
-            #macro-binding-cells = <0>;
-            bindings = <&kp LS(EQUAL)>;
-        };
+us_tilde: us_tilde {
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+    bindings = <&kp LS(EQUAL)>;
+};
 
-        us_lbracket: us_lbracket {
-            compatible = "zmk,behavior-macro";
-            #macro-binding-cells = <0>;
-            bindings = <&kp AT>;
-        };
+us_lbracket: us_lbracket {
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+    bindings = <&kp AT>;
+};
 
-        us_rbracket: us_rbracket {
-            compatible = "zmk,behavior-macro";
-            #macro-binding-cells = <0>;
-            bindings = <&kp RIGHT_BRACKET>;
-        };
+us_rbracket: us_rbracket {
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+    bindings = <&kp RIGHT_BRACKET>;
+};
 
-        us_lbrace: us_lbrace {
-            compatible = "zmk,behavior-macro";
-            #macro-binding-cells = <0>;
-            bindings = <&kp LS(LEFT_BRACKET)>;
-        };
+us_lbrace: us_lbrace {
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+    bindings = <&kp LS(LEFT_BRACKET)>;
+};
 
-        us_rbrace: us_rbrace {
-            compatible = "zmk,behavior-macro";
-            #macro-binding-cells = <0>;
-            bindings = <&kp LS(RIGHT_BRACKET)>;
-        };
+us_rbrace: us_rbrace {
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+    bindings = <&kp LS(RIGHT_BRACKET)>;
     };
 };
 
