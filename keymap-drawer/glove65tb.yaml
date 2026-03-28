@@ -201,16 +201,16 @@ layers:
   FUN:
   - {t: ▽, type: trans}
   - '!'
-  - '@'
+  - '['
   - '#'
   - $
   - '%'
+  - '='
   - ^
-  - '&'
+  - '"'
   - '*'
   - (
-  - )
-  - +
+  - ':'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -224,22 +224,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - Ctl+Sft+P
-  - _
+  - Sft+0x87
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - '{'
-  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -253,6 +239,20 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '}'
+  - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&LS(COMMA)'
+  - '&LS(DOT)'
+  - '&LS(FSLH)'
+  - '|'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -263,7 +263,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '"'
-  - '~'
+  - +
   MOUSE:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
