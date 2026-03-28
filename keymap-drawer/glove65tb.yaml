@@ -56,7 +56,7 @@ layers:
   - /
   - '&us_rbracket'
   - LEFT CONTROL
-  - Gui+H
+  - JPY
   - LEFT WIN
   - {t: LEFT ALT, h: SYM}
   - Gui+SPACE
