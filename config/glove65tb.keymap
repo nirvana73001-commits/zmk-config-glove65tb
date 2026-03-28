@@ -81,18 +81,6 @@
             #macro-binding-cells = <0>;
             bindings = <&kp LS(RIGHT_BRACKET)>;
         };
-
-        us_bslash: us_bslash {
-            compatible = "zmk,behavior-macro";
-            #macro-binding-cells = <0>;
-bindings = <&kp JPY>;
-        };
-
-        us_pipe: us_pipe {
-            compatible = "zmk,behavior-macro";
-            #macro-binding-cells = <0>;
-            bindings = <&kp LS(JPY)>;
-        };
     };
 };
 
