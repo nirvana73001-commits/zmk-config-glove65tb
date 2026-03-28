@@ -350,6 +350,11 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - PAGE UP
+  - {t: ▽, type: trans}
+  - LEFT ARROW
+  - UP ARROW
+  - RIGHT ARROW
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -359,17 +364,12 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - PAGE DOWN
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - DOWN ARROW
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - '&mkp MB1'
-  - {t: ▽, type: trans}
-  - '&mkp MB2'
-  - '&mkp MB3'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
