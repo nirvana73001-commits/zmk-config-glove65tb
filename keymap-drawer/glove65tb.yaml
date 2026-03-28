@@ -20,7 +20,7 @@ layers:
   - R
   - T
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - UP ARROW
   - Y
   - U
   - I
@@ -34,7 +34,7 @@ layers:
   - F
   - G
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - DOWN ARROW
   - H
   - J
   - K
@@ -47,8 +47,8 @@ layers:
   - C
   - V
   - B
-  - SCROLL
-  - ''''
+  - LEFT ARROW
+  - RIGHT ARROW
   - N
   - M
   - ','
@@ -59,9 +59,9 @@ layers:
   - Ctl+H
   - LEFT WIN
   - {t: LEFT ALT, h: SYM}
-  - LEFT GUI
-  - '&mkp LCLK'
-  - SPACE
+  - {t: LANGUAGE 1, h: NUM}
+  - {t: SPACE, h: MOUSE}
+  - {t: LANGUAGE 2, h: SCROLL}
   - SPACE
   - FUN
   - {t: ▽, type: trans}
@@ -125,7 +125,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -324,7 +324,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -377,21 +377,21 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {type: held}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
