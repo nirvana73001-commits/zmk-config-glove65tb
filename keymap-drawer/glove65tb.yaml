@@ -305,7 +305,7 @@ layers:
   - '&mkp MB2'
   - '&mkp MB3'
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - LEFT SHIFT
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
