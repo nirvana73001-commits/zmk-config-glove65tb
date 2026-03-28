@@ -56,7 +56,7 @@ layers:
   - /
   - '&us_rbracket'
   - LEFT CONTROL
-  - MUTE
+  - Gui+HOME
   - LEFT WIN
   - {t: LEFT ALT, h: SYM}
   - Gui+SPACE
