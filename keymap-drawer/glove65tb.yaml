@@ -59,9 +59,9 @@ layers:
   - Gui+H
   - LEFT WIN
   - {t: LEFT ALT, h: SYM}
-  - LANG1
+  - Ctl+SPACE
   - {t: SPACE, h: NUM}
-  - {t: LANG2, h: SCROLL}
+  - {t: AltGr+`, h: SCROLL}
   - BACKSPACE
   - {t: ENTER, h: NUM}
   - ''''
