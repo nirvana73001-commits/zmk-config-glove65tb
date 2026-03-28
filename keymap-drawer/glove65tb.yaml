@@ -84,7 +84,7 @@ layers:
   - '7'
   - '8'
   - '9'
-  - /
+  - Sft+/
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -98,8 +98,8 @@ layers:
   - '4'
   - '5'
   - '6'
-  - +
   - ':'
+  - ''''
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '&mkp MB1'
@@ -113,7 +113,7 @@ layers:
   - '2'
   - '3'
   - '-'
-  - '*'
+  - '"'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -124,7 +124,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '0'
-  - .
+  - Sft+.
   - {t: ▽, type: trans}
   - {type: held}
   - {t: ▽, type: trans}
@@ -237,7 +237,7 @@ layers:
   - Sft+J
   - Sft+K
   - Sft+L
-  - {t: ▽, type: trans}
+  - ''''
   - '}'
   - {type: held}
   - Sft+Z
@@ -262,7 +262,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '"'
+  - '@'
   - +
   MOUSE:
   - {t: ▽, type: trans}
