@@ -81,6 +81,8 @@ us_rbrace: us_rbrace {
     #binding-cells = <0>;
     bindings = <&kp LS(RIGHT_BRACKET)>;
     };
+  };
+};
 / {
     input_processors {
         zip_wheel_scaler: zip_wheel_scaler {
