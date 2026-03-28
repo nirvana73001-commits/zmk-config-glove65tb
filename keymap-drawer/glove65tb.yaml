@@ -33,7 +33,7 @@ layers:
   - D
   - F
   - G
-  - {t: ▽, type: trans}
+  - PRINTSCREEN
   - DOWN ARROW
   - H
   - J
