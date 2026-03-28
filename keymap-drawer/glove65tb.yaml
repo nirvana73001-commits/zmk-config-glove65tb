@@ -26,7 +26,7 @@ layers:
   - I
   - O
   - P
-  - \
+  - '-'
   - DEL
   - A
   - S
@@ -40,7 +40,7 @@ layers:
   - K
   - L
   - ;
-  - RETURN
+  - '['
   - LEFT SHIFT
   - Z
   - X
@@ -54,7 +54,7 @@ layers:
   - ','
   - .
   - /
-  - RIGHT SHIFT
+  - ']'
   - LEFT CONTROL
   - Ctl+H
   - LEFT WIN
@@ -64,8 +64,8 @@ layers:
   - {t: LANGUAGE 2, h: SCROLL}
   - SPACE
   - FUN
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - ''''
+  - '`'
   NUM:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
