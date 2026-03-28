@@ -223,7 +223,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Ctl+Sft+P
   - _
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
