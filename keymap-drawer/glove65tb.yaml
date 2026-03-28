@@ -249,9 +249,9 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '&LS(COMMA)'
-  - '&LS(DOT)'
-  - '&LS(FSLH)'
+  - Sft+,
+  - Sft+.
+  - Sft+/
   - '|'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
