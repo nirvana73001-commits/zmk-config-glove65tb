@@ -12,7 +12,7 @@ layers:
   - '8'
   - '9'
   - '0'
-  - KP EQUAL
+  - '='
   - TAB
   - Q
   - W
@@ -26,7 +26,7 @@ layers:
   - I
   - O
   - P
-  - KP MINUS
+  - _
   - DEL
   - A
   - S
@@ -40,7 +40,7 @@ layers:
   - K
   - L
   - ;
-  - '['
+  - ']'
   - {t: LEFT SHIFT, h: FUN}
   - Z
   - X
@@ -54,7 +54,7 @@ layers:
   - ','
   - .
   - /
-  - ']'
+  - \
   - LEFT CONTROL
   - Gui+H
   - LEFT WIN
@@ -262,7 +262,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '"'
+  - '&DOUBLE_QUOTES'
   - '~'
   MOUSE:
   - {t: ▽, type: trans}
