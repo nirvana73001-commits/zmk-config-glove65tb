@@ -12,7 +12,7 @@ layers:
   - '8'
   - '9'
   - '0'
-  - BSPC
+  - '='
   - TAB
   - Q
   - W
@@ -27,7 +27,7 @@ layers:
   - O
   - P
   - \
-  - LEFT CONTROL
+  - DEL
   - A
   - S
   - D
@@ -55,10 +55,10 @@ layers:
   - .
   - /
   - RIGHT SHIFT
-  - SYM
-  - {t: ▽, type: trans}
   - LEFT CONTROL
-  - LEFT ALT
+  - Ctl+H
+  - LEFT WIN
+  - {t: LEFT ALT, h: SYM}
   - LEFT GUI
   - '&mkp LCLK'
   - SPACE
@@ -187,10 +187,10 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {type: held}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
