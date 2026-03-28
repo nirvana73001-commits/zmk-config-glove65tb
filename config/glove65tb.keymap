@@ -136,11 +136,11 @@
         function_layer {
             label = "FUN";
             bindings = <
-&trans  &kp EXCLAMATION  &kp AT  &kp HASH  &kp DOLLAR  &kp PERCENT                  &kp CARET  &kp AMPERSAND  &kp ASTERISK  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp PLUS
-&trans  &trans           &trans  &trans    &trans      &trans       &trans  &trans  &trans     &trans         &trans        &trans                &kp LC(LS(P))          &kp UNDERSCORE
-&trans  &trans           &trans  &trans    &trans      &trans       &trans  &trans  &trans     &trans         &trans        &trans                &trans                 &kp LEFT_BRACE
-&trans  &trans           &trans  &trans    &trans      &trans       &trans  &trans  &trans     &trans         &trans        &trans                &trans                 &kp RIGHT_BRACE
-&trans  &trans           &trans  &trans    &trans      &trans       &trans  &trans  &trans                                                        &kp JP_ASTERISK       &kp TILDE
+&trans  &kp EXCLAMATION  &kp JP_AT  &kp HASH  &kp DOLLAR  &kp PERCENT                  &kp JP_CARET  &kp JP_AMPERSAND  &kp JP_ASTERISK  &kp JP_LPAREN  &kp JP_RPAREN &kp JP_PLUS
+&trans  &trans           &trans  &trans    &trans      &trans       &trans  &trans  &trans     &trans         &trans        &trans                &kp LC(LS(P))          &kp JP_UNDERSCORE
+&trans  &trans           &trans  &trans    &trans      &trans       &trans  &trans  &trans     &trans         &trans        &trans                &trans                 &kp JP_LBRACE
+&trans  &trans           &trans  &trans    &trans      &trans       &trans  &trans  &trans     &trans         & LS(COMMA)       & LS(DOT)           & LS(FSLH)                 &kp JP_RBRACE
+&trans  &trans           &trans  &trans    &trans      &trans       &trans  &trans  &trans                                                        &kp JP_ASTERISK       &kp JP_TILDE
             >;
 
             sensor-bindings = <&sensor_rotate_kp C_VOLUME_DOWN C_VOLUME_UP>;
