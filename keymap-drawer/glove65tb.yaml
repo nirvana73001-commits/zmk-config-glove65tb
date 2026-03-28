@@ -40,7 +40,7 @@ layers:
   - K
   - L
   - ;
-  - '&us_lbracket'
+  - '['
   - LEFT SHIFT
   - Z
   - X
@@ -54,7 +54,7 @@ layers:
   - ','
   - .
   - /
-  - '&us_rbracket'
+  - ']'
   - LEFT CONTROL
   - Gui+H
   - LEFT WIN
@@ -64,8 +64,8 @@ layers:
   - {t: Ctl+SPACE, h: SCROLL}
   - BACKSPACE
   - {t: ENTER, h: NUM}
-  - '&us_quote'
-  - '&us_backtick'
+  - ''''
+  - '`'
   NUM:
   - {t: ▽, type: trans}
   - F1
