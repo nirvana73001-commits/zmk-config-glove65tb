@@ -140,7 +140,7 @@
 &trans  &trans           &trans  &trans    &trans      &trans       &trans  &trans  &trans     &trans         &trans        &trans                &kp LC(LS(P))          &kp UNDERSCORE
 &trans  &trans           &trans  &trans    &trans      &trans       &trans  &trans  &trans     &trans         &trans        &trans                &trans                 &kp LEFT_BRACE
 &trans  &trans           &trans  &trans    &trans      &trans       &trans  &trans  &trans     &trans         &trans        &trans                &trans                 &kp RIGHT_BRACE
-&trans  &trans           &trans  &trans    &trans      &trans       &trans  &trans  &trans                                                        &JP_ASTERISK       &kp TILDE
+&trans  &trans           &trans  &trans    &trans      &trans       &trans  &trans  &trans                                                        &kp JP_ASTERISK       &kp TILDE
             >;
 
             sensor-bindings = <&sensor_rotate_kp C_VOLUME_DOWN C_VOLUME_UP>;
