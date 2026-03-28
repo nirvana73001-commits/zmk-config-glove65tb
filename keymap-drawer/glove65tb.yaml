@@ -41,7 +41,7 @@ layers:
   - L
   - ;
   - ']'
-  - LEFT SHIFT
+  - {t: LEFT SHIFT, h: FUN}
   - Z
   - X
   - C
@@ -59,9 +59,9 @@ layers:
   - Gui+H
   - LEFT WIN
   - {t: LEFT ALT, h: SYM}
-  - Ctl+SPACE
+  - LANGUAGE 2
   - {t: SPACE, h: NUM}
-  - {t: AltGr+`, h: SCROLL}
+  - {t: LANGUAGE 1, h: SCROLL}
   - BACKSPACE
   - {t: ENTER, h: NUM}
   - '&'
@@ -239,7 +239,7 @@ layers:
   - RIGHT ARROW
   - '['
   - ']'
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
