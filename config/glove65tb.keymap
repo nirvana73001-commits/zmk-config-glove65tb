@@ -85,7 +85,7 @@
         us_bslash: us_bslash {
             compatible = "zmk,behavior-macro";
             #macro-binding-cells = <0>;
-            bindings=<&kp JPY>;
+            bindings = <&kp JPY>;
         };
 
         us_pipe: us_pipe {
