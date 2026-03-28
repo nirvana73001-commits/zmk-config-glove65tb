@@ -137,7 +137,7 @@
             label = "FUN";
             bindings = <
 &trans  &kp EXCLAMATION  &kp AT  &kp HASH  &kp DOLLAR  &kp PERCENT                  &kp CARET  &kp AMPERSAND  &kp ASTERISK  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp PLUS
-&trans  &trans           &trans  &trans    &trans      &trans       &trans  &trans  &trans     &trans         &trans        &trans                &trans                 &kp UNDERSCORE
+&trans  &trans           &trans  &trans    &trans      &trans       &trans  &trans  &trans     &trans         &trans        &trans                &kp LC(LS(P))          &kp UNDERSCORE
 &trans  &trans           &trans  &trans    &trans      &trans       &trans  &trans  &trans     &trans         &trans        &trans                &trans                 &kp LEFT_BRACE
 &trans  &trans           &trans  &trans    &trans      &trans       &trans  &trans  &trans     &trans         &trans        &trans                &trans                 &kp RIGHT_BRACE
 &trans  &trans           &trans  &trans    &trans      &trans       &trans  &trans  &trans                                                        &kp DOUBLE_QUOTES      &kp TILDE
