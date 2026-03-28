@@ -106,7 +106,8 @@
 &kp DEL           &kp A      &kp S         &kp D           &kp F          &kp G        &kp PRINTSCREEN  &kp DOWN_ARROW   &kp H        &kp J   &kp K      &kp L    &kp SEMI  &kp JP_LBRACKET
 &kp LEFT_SHIFT    &kp Z      &kp X         &kp C           &kp V          &kp B        &kp LEFT_ARROW   &kp RIGHT_ARROW  &kp N        &kp M   &kp COMMA  &kp DOT  &kp FSLH  &kp JP_RBRACKET
 &kp LEFT_CONTROL  &kp LG(H)  &kp LEFT_WIN  &lt 2 LEFT_ALT  &kp RC(SPACE)  &lt 1 SPACE  &lt 5 RA(GRAVE)  &kp BACKSPACE    &lt 1 ENTER                              &kp JP_QUOTE   &kp JP_BACKQUOTE
-            sensor-bindings = <&mouse_wheel_scroll SCRL_UP SCRL_DOWN>;
+   　　　　　  >;
+　　　　　　sensor-bindings = <&mouse_wheel_scroll SCRL_UP SCRL_DOWN>;
         };
 
         number_layer {
