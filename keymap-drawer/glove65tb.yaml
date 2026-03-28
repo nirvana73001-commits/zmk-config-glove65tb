@@ -62,7 +62,7 @@ layers:
   - {t: LANGUAGE 1, h: NUM}
   - {t: SPACE, h: MOUSE}
   - {t: LANGUAGE 2, h: SCROLL}
-  - {t: BACKSPACE, h: FUN}
+  - BACKSPACE
   - {t: ENTER, h: NUM}
   - ''''
   - '`'
@@ -260,7 +260,7 @@ layers:
   - {t: ▽, type: trans}
   - '&mkp RCLK'
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
