@@ -262,7 +262,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '&DOUBLE_QUOTES'
+  - '"'
   - '~'
   MOUSE:
   - {t: ▽, type: trans}
