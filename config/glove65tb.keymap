@@ -80,7 +80,7 @@
 &kp TAB           &kp Q      &kp W         &kp E           &kp R             &kp T        &trans            &kp UP_ARROW     &kp Y        &kp U   &kp I      &kp O    &kp P     &kp MINUS
 &kp DEL           &kp A      &kp S         &kp D           &kp F             &kp G        &kp PRINTSCREEN   &kp DOWN_ARROW   &kp H        &kp J   &kp K      &kp L    &kp SEMI  &kp LEFT_BRACKET
 &kp LEFT_SHIFT    &kp Z      &kp X         &kp C           &kp V             &kp B        &kp LEFT_ARROW    &kp RIGHT_ARROW  &kp N        &kp M   &kp COMMA  &kp DOT  &kp FSLH  &kp RIGHT_BRACKET
-&kp LEFT_CONTROL  &kp LC(H)  &kp LEFT_WIN  &lt 2 LEFT_ALT  &lt 1 LANGUAGE_1  &lt 4 SPACE  &lt 5 LANGUAGE_2  &lt 3 BACKSPACE  &lt 1 ENTER                              &kp SQT   &kp GRAVE
+&kp LEFT_CONTROL  &kp LC(H)  &kp LEFT_WIN  &lt 2 LEFT_ALT  &lt 1 LANGUAGE_1  &lt 4 SPACE  &lt 5 LANGUAGE_2  &kp BACKSPACE    &lt 1 ENTER                              &kp SQT   &kp GRAVE
             >;
 
             sensor-bindings = <&mouse_wheel_scroll SCRL_UP SCRL_DOWN>;
