@@ -40,7 +40,7 @@ layers:
   - K
   - L
   - ;
-  - '&us_lbracket'
+  - '['
   - LEFT SHIFT
   - Z
   - X
@@ -54,18 +54,18 @@ layers:
   - ','
   - .
   - /
-  - '&us_rbracket'
+  - ']'
   - LEFT CONTROL
-  - HOME
+  - Gui+H
   - LEFT WIN
   - {t: LEFT ALT, h: SYM}
-  - Gui+SPACE
+  - Gui+LANG1
   - {t: SPACE, h: NUM}
-  - Ctl+SPACE
+  - {t: Ctl+LANG2, h: SCROLL}
   - BACKSPACE
   - {t: ENTER, h: NUM}
-  - '&us_quote'
-  - '&us_backtick'
+  - ''''
+  - '`'
   NUM:
   - {t: ▽, type: trans}
   - F1
@@ -380,18 +380,18 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {type: held}
-  - {type: held}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
