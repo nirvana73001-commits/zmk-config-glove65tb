@@ -43,7 +43,6 @@
         us_rbracket: us_rbracket { compatible = "zmk,behavior-macro"; #macro-binding-cells = <0>; bindings = <&kp RIGHT_BRACKET>; };
         us_lbrace: us_lbrace { compatible = "zmk,behavior-macro"; #macro-binding-cells = <0>; bindings = <&kp LS(LEFT_BRACKET)>; };
         us_rbrace: us_rbrace { compatible = "zmk,behavior-macro"; #macro-binding-cells = <0>; bindings = <&kp LS(RIGHT_BRACKET)>; };
-        us_bslash: us_bslash { compatible = "zmk,behavior-macro"; #macro-binding-cells = <0>; bindings = <&kp JPY>; };
         us_pipe: us_pipe { compatible = "zmk,behavior-macro"; #macro-binding-cells = <0>; bindings = <&kp LS(JPY)>; };
     };
 };
